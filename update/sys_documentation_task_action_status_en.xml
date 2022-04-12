@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="action_status" label="Action status" language="en" table="task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>action_status</element>
+            <help/>
+            <hint/>
+            <label>Action status</label>
+            <language>en</language>
+            <name>task</name>
+            <plural>Action status</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-12 10:30:00</sys_created_on>
+            <sys_id>a8cc9a312f7a41108ece93acf699b671</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Action status</sys_name>
+            <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+            <sys_update_name>sys_documentation_task_action_status_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-12 10:30:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

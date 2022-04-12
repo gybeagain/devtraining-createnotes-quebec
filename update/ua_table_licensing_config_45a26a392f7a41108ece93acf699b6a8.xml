@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-11 13:28:18</sys_created_on>
-        <sys_id>9b2896f92f3a41108ece93acf699b687</sys_id>
+        <sys_id>45a26a392f7a41108ece93acf699b6a8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>chat_survey</sys_name>
         <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
         <sys_policy/>
         <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
-        <sys_update_name>ua_table_licensing_config_9b2896f92f3a41108ece93acf699b687</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_45a26a392f7a41108ece93acf699b6a8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-11 13:28:18</sys_updated_on>
     </ua_table_licensing_config>
